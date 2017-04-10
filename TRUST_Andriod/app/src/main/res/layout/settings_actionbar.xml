@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:gravity="center_horizontal|center_vertical"
+            android:background="?attr/actionBarItemBackground"
+            android:layout_height="match_parent"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:scaleType="centerInside"
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent" />
+</RelativeLayout>

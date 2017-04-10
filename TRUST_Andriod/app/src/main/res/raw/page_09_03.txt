@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>03</Page>
+<Image>1</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Introduction</Subtitle>
+<Content><p>Making an advance care plan can ease worries about what might happen to you if you are unable to make decisions about your own care or about death and dying. Getting answers to your questions and letting people know what you want at the end of your life can help you feel more in control and give you peace of mind as you go about living your life. An advance care plan is a good idea for all adults, regardless of their medical history. This module will discuss topics related to advance care planning that you can think about and talk over with your family. There are no right or wrong decisions on these topics, so you can be open and honest about your feelings and make choices that are best for you.</p></Content>

@@ -1,0 +1,19 @@
+<Module>4</Module>
+<Page>25</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Early Symptoms of Heart Failure</Subtitle>
+<Content><p>
+Call your doctor or nurse if you have any of the following symptoms, so they can be treated before they become urgent:<br>
+<ul>
+<li>A weight gain or loss of 2 or more pounds in 1 day, or 4 pounds in 1 week.</li>
+<li>Swelling in the legs, feet, hands, or abdomen.</li>
+<li>A persistent cough or chest congestion.</li>
+<li>Increasing fatigue or a sudden decrease in your ability to do your usual activities.</li>
+<li>A loss of appetite or nausea.</li>
+<li>A feeling of fullness or bloating in your stomach.</li>
+<li>Confusion or restlessness.</li>
+<li>Intermittent or mild shortness of breath.</li>
+<li>Dizziness or lightheadedness.</li>
+</ul>
+</p></Content>

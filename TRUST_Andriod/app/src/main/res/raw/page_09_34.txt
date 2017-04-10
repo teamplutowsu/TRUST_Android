@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>34</Page>
+<Image>5</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Hospice Care</Subtitle>
+<Content><p>Hospice programs promote the notion that dying is a normal part of living. These programs provide medical and supportive services to a patient expected to be in the last 6 months of life. Hospice care can be provided in different settings including the patient's home, a hospice unit, or a nursing home.</p></Content>

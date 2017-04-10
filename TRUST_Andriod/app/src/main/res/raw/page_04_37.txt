@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>37</Page>
+<Image>5</Image>
+<Title>Self-Care</Title>
+<Subtitle>Questions to Ask Your Doctor or Nurse</Subtitle>
+<Content><p>
+<h3>Am I a candidate for a flexible diuretic (water pill) regimen?</h3><br> (A flexible diuretic regimen is one in which you adjust your water pill dose up or down as needed based on your weight.)
+</p></Content>

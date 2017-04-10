@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/d4b128f91e81e7c181808747b51d5b22eb01e0e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_db0e8b702133f224781f5e2daf5d89a013c8b91a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/741bd9685b021622759d73d27103bb6527437617/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ccd14a119994f577cdbc4539ec3394a6bc581a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/741bd9685b021622759d73d27103bb6527437617/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_b0ed1835107c7dfec514b63f9e24d689ee9ac96a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/a08501b7260898bfaadf4994c18de80e177ba365/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_a3e907558bf7755d1113317217a8a4f06dd33f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/84510270daa2d03a5022a005a69c3e1e9a7f53a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_f7bbe2d83fd8ffdfec17016e7a5517bcfabfdc10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/9700925facc4da1315ec9c0449cf8c8d5f074a7a/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2b225a0e363840293fecad472d3a69cb8dd6731d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/58d6e6d63767bb39d7317bdf72faa6693398e121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_6df31c0a823271df05d6630bcf4e52e81793e071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/a0906bd2809a442ef92ebd0aa380b128c0fdd989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_7053cb67c01e3a4959bed85c042f45e9e16ba29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/e534160861f2a49bd9ba7c234d476d971faa4ae1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_1c7c44e818434902c4dd5d17d8793fe155f7280b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/5dced421fbea89e16a37b8ec57b4a199bcd477a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_35e866bebb006e716929d184f7cb54262e4b2ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/a08501b7260898bfaadf4994c18de80e177ba365/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_972f66504eaf3cb0edb1ebd9119ec9971e91ee8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/1f87938c4274798210723d73572f93795bc5dd84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_d363ae20f3b93f839758963f350812edc4049d45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/5dced421fbea89e16a37b8ec57b4a199bcd477a5/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_511d5ff644bef22759b582391bf33b6180a2240c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_715dcd6012bc6d03431146ea9a56a0aaad0f6111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_715dcd6012bc6d03431146ea9a56a0aaad0f6111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/0b2ae48e73726a608cfaee562f86aacc643d623a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_a01124a7191c753b6c66efbbfc28d5b0ce2aa637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/4337e1efd0f40d594545e380c3bd39b7fab9ae01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_e326fa2ebe2d1dc27733320349531ef83d2cda9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/505285b3e5e7753fcdac4897a6d8520e5dd4175d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_a99e63bfb9f2dbc7fdd68cc029c1ae424b560e11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/d2c64ba69accbe85f75c6a420835b06a14f4d581/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_2449dc8e02ed54d90c77e45f8241c24495301414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/d2c64ba69accbe85f75c6a420835b06a14f4d581/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_746292ced66de6a246827e068ba5e787b0af872a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/0b80d01d0760cf2958e010fce314c6e274cd71ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_9e3dd9a347c2cba9b2da5022988da2cc99431682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathan/.android/build-cache/9700925facc4da1315ec9c0449cf8c8d5f074a7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/nathan/Documents/School/WSU/Computer Science/Cpts 421/TRUST_Andriod/app/build/intermediates/pre-dexed/debug/classes_55a799efbda7e9b9f8027e728dab8325bedc5e18.jar" />
+    </item>
+
+</items>

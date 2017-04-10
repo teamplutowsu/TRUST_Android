@@ -1,0 +1,8 @@
+<Module>1</Module>
+<Page>10</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Questions to Ask</Subtitle>
+<Content><p>The list of questions below can help you talk about heart failure with your doctor or nurse. The answers can help you understand heart failure better. Talking with your doctor or nurse will also help ensure that you are receiving the best possible care.<br>
+Always feel free to ask your doctor or nurse questions. You may want to have a family member or friend help you ask questions if you are not comfortable doing it alone.<br>
+Remember that an active partnership between you and your doctor and nurse makes for the best health care.<br></p></Content>

@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>07</Page>
+<Image>2</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>What Is An Advance Care Plan?</Subtitle>
+<Content><p>An advance care plan does not guarantee that your instructions will be followed, but it does substantially increase the likelihood. Making sure that your advance care plan conforms to any legal requirements in your state helps ensure that your health care providers will comply with it. Even if you do not create a written advance care plan, it is important to let your health care providers, family, and other caretakers know about your wishes regarding future medical care.</p></Content>

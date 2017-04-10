@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home"
+    tools:context=".MainActivity"
+    android:weightSum="3"
+    android:id="@+id/mainLayout">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded_view_back"
+        android:outlineProvider="background"
+        android:orientation="vertical"
+        android:id="@+id/homebar1"
+        android:layout_margin="10dip"
+        android:padding="5dip"
+        android:layout_weight="1"
+        android:onClick="onClickedACP">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/moduleProgress"
+            android:textAlignment="center"
+            android:padding="5dip"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/rounded_view_front"
+            android:id="@+id/moduleText"
+            android:textColor="@color/textColor"
+            android:text="Advanced Care Planning"
+            android:textSize="28dip"/>
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="15dip"
+            android:layout_marginTop="5dip"
+            android:padding="5dip"
+            android:progress="1"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/rounded_view_front"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressTint="@color/progressBarForeground"
+            android:progressBackgroundTint="@color/progressBarBackground"
+            android:progressTintMode="multiply"
+            android:id="@+id/moduleProgress"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded_view_back"
+        android:outlineProvider="background"
+        android:orientation="horizontal"
+        android:id="@+id/homebar2"
+        android:layout_margin="10dip"
+        android:padding="2dip"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="@drawable/rounded_view_front"
+                android:textAlignment="center"
+                android:padding="2dip"
+                android:text="Bookmarks"
+                android:textSize="28dip"
+                android:textColor="@color/textColor"
+                android:layout_weight="1"
+                android:layout_margin="5dip"
+                android:id="@+id/bookmarks"
+                android:onClick="onClickedBookmarks"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="@drawable/rounded_view_front"
+                android:textAlignment="center"
+                android:padding="2dip"
+                android:text="Additional Reading"
+                android:textSize="28dip"
+                android:textColor="@color/textColor"
+                android:layout_weight="1"
+                android:layout_margin="5dip"
+                android:id="@+id/additionalReading"
+                android:onClick="onClickedAR"/>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded_view_back"
+        android:outlineProvider="background"
+        android:orientation="horizontal"
+        android:id="@+id/homebar3"
+        android:layout_margin="10dip"
+        android:padding="2dip"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="@drawable/rounded_view_front"
+                android:textAlignment="center"
+                android:padding="2dip"
+                android:text="Tutorials"
+                android:textSize="28dip"
+                android:textColor="@color/textColor"
+                android:layout_weight="1"
+                android:layout_margin="5dip"
+                android:id="@+id/tutorials"
+                android:onClick="onClickedTutorials"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="@drawable/rounded_view_front"
+                android:textAlignment="center"
+                android:padding="2dip"
+                android:text="Settings"
+                android:textSize="28dip"
+                android:textColor="@color/textColor"
+                android:layout_weight="1"
+                android:layout_margin="5dip"
+                android:id="@+id/settings"
+                android:onClick="onClickedSettings"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

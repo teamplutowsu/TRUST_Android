@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>38</Page>
+<Image>5</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Home Health Care</Subtitle>
+<Content><p>A home health care nurse can monitor your vital signs, weight, heart failure status, blood laboratory work, and medication dosing. He or she may also administer intravenous medications at home to decrease your discomfort, pain or difficulty breathing, and prevent hospitalization.</p></Content>

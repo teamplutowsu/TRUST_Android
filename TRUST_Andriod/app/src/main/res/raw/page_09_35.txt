@@ -1,0 +1,9 @@
+<Module>9</Module>
+<Page>35</Page>
+<Image>5</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Hospice Care</Subtitle>
+<Content><p>Hospice programs are intended to provide care and support 24 hours a day, 7 days a week according to the following guidelines:<br>
+<ul><li>The goal of care is to comfort rather than cure the patient.</li>
+<li>Pain relief and symptom control are designed to meet the needs and desires of the patient and are obtained by whatever means necessary.</li>
+<li>The patient is not treated in isolation. The family is included in the unit of care.</li></ul></p></Content>

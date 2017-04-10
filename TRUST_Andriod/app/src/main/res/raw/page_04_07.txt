@@ -1,0 +1,20 @@
+<Module>4</Module>
+<Page>07</Page>
+<Image>1</Image>
+<Title>Self-Care</Title>
+<Subtitle>Barriers to Following Your Treatment Plan</Subtitle>
+<Content><p>
+You may have trouble following your treatment plan because you may:<br>
+<ul>
+<li>Forget to take your medicines.</li>
+<li>Have side effects from your medicines.</li>
+<li>Have trouble going away from home when taking a diuretic (water pill).</li>
+<li>Have trouble paying for your pills.</li>
+<li>Have to get up at night to go to the bathroom.</li>
+<li>Lack time or energy to exercise.</li>
+<li>Be unable to cook.</li>
+<li>Be unable to find the recommended foods or discover they cost too much money.</li>
+<li>Have temptations and cravings that get you off your diet.</li>
+<li>Feel overwhelmed or depressed.</li>
+</ul>
+</p></Content>

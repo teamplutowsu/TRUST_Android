@@ -1,0 +1,12 @@
+<Module>6</Module>
+<Page>10</Page>
+<Image>2</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>What You Can Do About Your Feelings</Subtitle>
+<Content><p>
+There are many things that you can do to eliminate depression and anxiety and improve your quality of life. Try the following:<br>
+<ul>
+<li>One of the most powerful things you can do to combat depression and anxiety is to talk about these feelings with someone. Sometimes the simple act of saying a problem or worry out loud makes it more manageable and less overwhelming.<br>
+Consider talking to a trusted friend, family member, someone else with heart failure, or your doctor or nurse. Your doctor or nurse can also help you explore other treatment options for emotional problems.</li>
+</ul>
+</p></Content>

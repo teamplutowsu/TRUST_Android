@@ -1,0 +1,19 @@
+<Module>4</Module>
+<Page>02</Page>
+<Image>1</Image>
+<Title>Self-Care</Title>
+<Subtitle>Introduction</Subtitle>
+<Content><p>
+This module will help you learn to live successfully with heart failure. It will provide information on:<br>
+<ul>
+<li>Why it is important to follow your treatment plan.</li>
+<li>Tips for following your doctor or nurse’s advice.</li>
+<li>Assessing your heart failure symptoms.</li>
+</ul>
+<ul>
+It will help you:<br>
+<li>Follow your treatment plan more closely and with less trouble.</li>
+<li>Monitor and attend to your symptoms.</li>
+<li>Learn when you should seek immediate help for your symptoms. </li>
+</ul>
+</p></Content>

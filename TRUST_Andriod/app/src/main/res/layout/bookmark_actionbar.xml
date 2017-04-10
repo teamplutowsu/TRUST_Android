@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <ImageButton android:src="@drawable/trashbin_white"
+        android:background="?attr/actionBarItemBackground"
+        android:layout_width="?attr/actionBarSize"
+        android:layout_height="?attr/actionBarSize"
+        android:scaleType="centerInside"
+        android:id="@+id/bookmark_delete_button"
+        android:clickable="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"/>
+
+    <TextView android:text="Bookmarks"
+        android:background="?attr/actionBarItemBackground"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_width="wrap_content"
+        android:scaleType="centerInside"
+        android:id="@+id/bookmark_tittle"
+        android:textSize="30sp"
+        android:textColor="#FFF"
+        android:paddingTop="5dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical|center_horizontal" />
+</RelativeLayout>

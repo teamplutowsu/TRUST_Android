@@ -1,0 +1,11 @@
+<Module>6</Module>
+<Page>14</Page>
+<Image>3</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Other Tips for Decreasing Depression and Anxiety</Subtitle>
+<Content><p>
+<ul>
+<li>Get a good night’s sleep. Research has shown that people who do not feel rested, or who do not get enough sleep often feel depressed. If you have persistent difficulty sleeping, ask your doctor or nurse about techniques or medications that can help you.</li>
+<li>Make a plan for activities with family and friends. This will help you get out and about, and reduce your isolation.</li>
+</ul>
+</p></Content>

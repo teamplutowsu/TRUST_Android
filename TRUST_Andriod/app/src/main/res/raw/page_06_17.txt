@@ -1,0 +1,8 @@
+<Module>6</Module>
+<Page>17</Page>
+<Image>3</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Seeking Professional Help </Subtitle>
+<Content><p>
+Medicines can also be used to treat depression and anxiety. If you have moderate to severe depression or anxiety that is long lasting and interferes with daily life, medication may be appropriate. Ask your doctor or nurse about medication, especially if your depression or anxiety persists even though you have tried the techniques described in this module.
+</p></Content>

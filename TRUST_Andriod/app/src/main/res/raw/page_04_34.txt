@@ -1,0 +1,12 @@
+<Module>4</Module>
+<Page>34</Page>
+<Image>5</Image>
+<Title>Self-Care</Title>
+<Subtitle>Treat Weight Gain and Swelling Right Away</Subtitle>
+<Content><p>
+If you do not lose the weight you have gained or decrease your swelling in 1 or 2 days, or if you gain another pound within 2 days, do the following:<br>
+<ul>
+<li>If your doctor has explained how you should adjust your diuretic (water pill) dose in situations like this, follow that advice.</li>
+<li>If your doctor has not explained how to adjust your diuretic, call your doctor or nurse. </li>
+</ul>
+</p></Content>

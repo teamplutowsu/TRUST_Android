@@ -1,0 +1,7 @@
+<Module>9</Module>
+<Page>41</Page>
+<Image>6</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>What to Do with Your Advance Care Plan</Subtitle>
+<Content><p>You may also wish to carry a card in your wallet which states that you have certain advance care directive documents and include contact information for the people who have copies of the documents. 
+Once you have prepared an advance care plan, be sure to review and update it every few years to make sure it still describes your wishes and meets current legal requirements.</p></Content>

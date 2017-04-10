@@ -1,0 +1,20 @@
+ <Module>6</Module>
+<Page>06</Page>
+<Image>1</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Recognizing Depression and Anxiety</Subtitle>
+<Content><p>
+You may be depressed if you have any of the following symptoms for more than two weeks:<br>
+<ul>
+<li>Down mood</li>
+<li>Feeling blue</li>
+<li>Irritability</li>
+<li>Loss of interest in things you used to enjoy</li>
+<li>Withdrawal from others</li>
+<li>Excessive sleepiness</li>
+<li>Feeling worthless or guilty</li>
+<li>Hopelessness</li>
+<li>Suicidal feelings</li>
+<li>Preoccupation with death</li>
+</ul>
+</p></Content>

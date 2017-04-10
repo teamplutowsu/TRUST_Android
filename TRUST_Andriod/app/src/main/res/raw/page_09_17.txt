@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>17</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Living Will</Subtitle>
+<Content><p>A living will guides health care providers and allows the patient to set limits on what is done to them. You can personalize your living will by including specific statements about the use of medical treatments which may apply to your condition, including CPR, blood transfusions, mechanical breathing, surgery, antibiotics, kidney dialysis, and invasive measures to provide nutrition and fluids. State laws vary in their requirements for living wills, so it is advisable to contact a lawyer to make a living will that is valid in your state.</p></Content>

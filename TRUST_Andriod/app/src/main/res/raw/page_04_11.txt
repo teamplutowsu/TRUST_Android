@@ -1,0 +1,11 @@
+<Module>4</Module>
+<Page>11</Page>
+<Image>2</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tips for Taking All of Your Medicines as Prescribed</Subtitle>
+<Content><p>
+<ul>
+<li>Put your medicine chart on the back of your medicine cabinet door. That way you can check it easily when you need a reminder.</li>
+<li>Take your medicines at the same time each day. But do not be afraid to change the routine if you have a problem. For example, if you take your diuretic (water pill) in the evening and then find that you have to get up all night to urinate, try taking your water pill earlier in the day.</li>
+</ul>
+</p></Content>

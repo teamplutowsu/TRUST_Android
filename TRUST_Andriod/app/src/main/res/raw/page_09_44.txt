@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>44</Page>
+<Image>6</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Care for the Caretakers</Subtitle>
+<Content><p>Asking for help from other family members and friends or from home health nurses and aides can help prevent caretakers from feeling overly burdened. Supporting caretakers as they help a family member or friend who has heart failure is an important part of helping families.</p></Content>

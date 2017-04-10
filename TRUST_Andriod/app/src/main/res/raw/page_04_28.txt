@@ -1,0 +1,9 @@
+<Module>4</Module>
+<Page>28</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tracking Your Symptoms</Subtitle>
+<Content><p>
+Using a tracking system like this can help you tell whether your symptoms are getting better or worse, because you will have something concrete to compare them to.<br>
+If any of your symptoms are getting worse, contact your doctor or nurse.
+</p></Content>

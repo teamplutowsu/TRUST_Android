@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>13</Page>
+<Image>2</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Advance Care Directive</Subtitle>
+<Content><p>A U.S. federal law called the Patient Self-Determination Act requires hospitals, nursing facilities, hospices, home health agencies, and other health care providers participating in the Medicare and Medicaid programs to give all patients written information about their rights to accept or refuse medical or surgical treatment and to make advance directives.</p></Content>

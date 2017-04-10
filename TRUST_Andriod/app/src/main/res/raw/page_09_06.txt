@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>06</Page>
+<Image>1</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>What Is An Advance Care Plan?</Subtitle>
+<Content><p>An advance care plan is a written document that helps you to ensure that your care is customized to reflect your personal preferences and health needs, as well as meet your social, cultural, and religious requirements. It covers issues such as whether you want to be resuscitated (revived if your heart stops beating) or whether you want to have a mechanical ventilator breathe for you if needed. You can also specify how you want pain relieved if it develops and talk about how other medical problems and complications should be handled if they occur.</p></Content>

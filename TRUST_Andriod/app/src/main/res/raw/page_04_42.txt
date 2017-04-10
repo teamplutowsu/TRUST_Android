@@ -1,0 +1,10 @@
+<Module>4</Module>
+<Page>42</Page>
+<Image>6</Image>
+<Title>Self-Care</Title>
+<Subtitle>Other Questions and Answers About Self-Care</Subtitle>
+<Content><p>
+The reason for weighing yourself every day is to find out whether your body is retaining extra fluid. Your weight changes when fluid builds up in your body. The extra fluid makes your heart work harder.<br>
+If you detect fluid build-up early (when you have gained just 2 or more pounds) you can treat it at home and decrease the work of your heart. If you detect it later, you are more likely to develop worsening symptoms and may have to go to the hospital for treatment.<br>
+That is why it is important to get into the habit of weighing yourself every day.
+</p></Content>

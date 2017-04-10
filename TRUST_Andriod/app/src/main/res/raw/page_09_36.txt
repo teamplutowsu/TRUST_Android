@@ -1,0 +1,9 @@
+<Module>9</Module>
+<Page>36</Page>
+<Image>5</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Hospice Care</Subtitle>
+<Content><p><ul><li>The patient and family can control and set the agenda for day-to-day care.<br>
+<li>A multidisciplinary team that includes nurses, volunteers, chaplains, therapists, bereavement counselors, social workers, and doctors are there for the patient.</li>
+<li>Care includes a spiritual component (not specific to one religion or faith) to help patients discuss and reconcile the meaning of end-of-life.</li>
+<li>Long-term bereavement support is available for family and friends.</li></ul></p></Content>

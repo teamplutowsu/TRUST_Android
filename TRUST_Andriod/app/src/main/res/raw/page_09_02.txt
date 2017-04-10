@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>02</Page>
+<Image>1</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Introduction</Subtitle>
+<Content><p>Heart failure is a serious chronic condition that can shorten your life. With proper management and active self-care, you can feel better, decrease your chances of being in the hospital, and live longer. Advances in treatment can slow, stop, or in some cases reverse the progression of heart failure. However, even with the best medical care, heart failure may progress over time. The progress of heart failure is unpredictable and different for each person, so you may feel uncertain about what to expect in the future. Therefore, it is important for you and your family to talk about how you want to be cared for in the future should you become very ill and unable to make decisions about your medical care. One way to plan for such a possibility is to make an advance care plan.</p></Content>

@@ -1,0 +1,8 @@
+<Module>9</Module>
+<Page>46</Page>
+<Image>7</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Terms Commonly Used in Advance Care Planning</Subtitle>
+<Content><p>End-stage heart failure: A stage of heart failure when there is a loss of response to maximal therapy with medicines and devices, and the patient has experienced repeated hospitalizations over the past three months due to severe, ongoing symptoms and distress, and a heart transplant or support with a ventricular assist device is not feasible.<br>
+Health care power of attorney: A document that involves choosing a person to be an attorney-in-fact regarding all health care decisions, including the decision to refuse life-sustaining treatment when the person is unable to make decisions themselves. A durable health care power of attorney remains in effect even after you become incapacitated.<br>
+If the person has a living will, the person holding the health care power of attorney has the authority to interpret the living will in the event of questions and make decisions that he or she believes to be in the best interest of the person.</p></Content>

@@ -1,0 +1,9 @@
+<Module>4</Module>
+<Page>30</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Monitor Your Weight and Body Swelling Daily</Subtitle>
+<Content><p>
+Checking for weight gain is important. You can gain weight without swelling. The average person can hold about 8 to15 extra pounds of fluid before developing swelling. That is why one of the best ways to watch for fluid building up is to weigh yourself every day.<br>
+The goal is to recognize a change in weight before you develop swelling and other symptoms. That way you can take steps early to remove the extra weight. 
+</p></Content>

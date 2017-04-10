@@ -1,0 +1,11 @@
+<Module>9</Module>
+<Page>26</Page>
+<Image>4</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Questions for Your Doctor or Nurse</Subtitle>
+<Content><p>You may wish to ask the following questions during your discussion:<br>
+<ul><li>Is my heart failure progressing slowly or rapidly?</li>
+<li>Is my heart failure still responding to medications?</li>
+<li>Is there anything else that can help me, when my heart failure no longer responds to my current therapy?</li>
+<li>Are there things I can be doing better or more of to improve the quality and length of my life?</li>
+<li>Do you have a palliative medicine team you routinely work with?</li></ul></p></Content>

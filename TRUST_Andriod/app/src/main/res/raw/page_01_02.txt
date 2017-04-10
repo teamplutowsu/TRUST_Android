@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>02</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>What is Heart Failure?</Subtitle>
+<Content><p>The fluid causes congestion and makes it hard to breathe. Sometimes the heart pumping is normal but there is an increase in pressure inside the heart. This can also cause problems with breathing. Many people with heart failure also have swollen legs and feet. That is why heart failure is sometimes called congestive heart failure.</p></Content>

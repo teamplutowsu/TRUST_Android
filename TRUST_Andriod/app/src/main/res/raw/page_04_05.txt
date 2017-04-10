@@ -1,0 +1,21 @@
+<Module>4</Module>
+<Page>05</Page>
+<Image>1</Image>
+<Title>Self-Care</Title>
+<Subtitle>Following Your Treatment Plan</Subtitle>
+<Content><p>
+Your doctor or nurse will develop a treatment plan that is right for you. Your plan may include recommendations to:<br>
+<ul>
+<li>Take your medicines exactly as directed.</li>
+<li>Weigh yourself every day to see if you are retaining fluid.</li>
+<li>Follow a low-sodium diet.</li>
+<li>Monitor your symptoms every day.</li>
+<li>Avoid alcohol or drink sparingly (less than 2-3 standard drinks/week).*</li>
+<li>Get vaccinations such as flu shots routinely.</li>
+<li>Control your body weight if you are overweight or have diabetes.</li>
+<li>Get regular physical activity.</li>
+<li>Quit smoking cigarettes and cigars if you smoke.</li>
+<li>Learn when to consult your doctor or nurse.</li>
+<li>Make following your treatment plan a permanent part of your life.</li>
+</ul>
+</p></Content>

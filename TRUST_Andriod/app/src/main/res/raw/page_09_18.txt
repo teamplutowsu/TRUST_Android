@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>18</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Health Care Power of Attorney</Subtitle>
+<Content><p>A power of attorney lets another person make legally binding decisions for you. A health care power of attorney lets someone make all health care decisions for you including the decision to refuse life-sustaining treatment if you are unable to make the decision for yourself. If you have a living will, the person with a power of attorney also has the authority to interpret your living will in the event there are questions about it and make decisions that he or she believes to be in your best interest.</p></Content>

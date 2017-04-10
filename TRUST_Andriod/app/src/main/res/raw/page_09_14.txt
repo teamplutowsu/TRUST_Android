@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>14</Page>
+<Image>2</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Do-Not-Resuscitate Order</Subtitle>
+<Content><p>A do-not-resuscitate order is a type of advance care directive that tells doctors, nurses, and other rescue personnel what they should or should not do when a person stops breathing or when their heart beats so irregularly as to threaten life or stops entirely. The decision to have a do-not-resuscitate order is made by the patient or his/her family in consultation with the doctor.</p></Content>

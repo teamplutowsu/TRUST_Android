@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38383b</color> <!-- 3F51B5 -->
+    <color name="colorPrimaryDark">#1f1f20</color> <!-- 303F9F -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="imageBackground">#BBBBBB</color>
+    <color name="subtitleBackground">#EEEEEE</color>
+    <color name="textViewBackground">#EFEFEF</color>
+    <color name="mainBackground">#777777</color>
+    <color name="progressBarBackground">#000000</color>
+    <color name="progressBarForeground">#3F51B5</color>
+    <color name="textColor">#222222</color>
+</resources>

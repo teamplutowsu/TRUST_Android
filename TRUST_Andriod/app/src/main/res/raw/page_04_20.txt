@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>20</Page>
+<Image>3</Image>
+<Title>Self-Care</Title>
+<Subtitle>Managing Your Symptoms</Subtitle>
+<Content><p>
+Monitor your weight and body swelling daily. Keep track of all symptoms. If you do these things, you will be able to notice changes in symptoms early and manage them better. The following sections of this module will help you figure out which symptoms indicate an urgent situation requiring immediate action and which are more common. You will also learn what steps to take for different types of symptoms. As you become more confident in your ability to manage your heart failure symptoms, you may be able to avoid going to the hospital.
+</p></Content>

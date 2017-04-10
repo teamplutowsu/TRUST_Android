@@ -1,0 +1,11 @@
+<Module>4</Module>
+<Page>14</Page>
+<Image>2</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tips for Taking All of Your Medicines as Prescribed</Subtitle>
+<Content><p>
+<ul>
+<li>If you are having other side effects from a medicine that is bothering you, do not just stop taking the medicine. Talk to your doctor or nurse. He or she can assess your situation and may be able to change your medicine or adjust the dose. Sometimes, the side effects get better over time.</li>
+<li>If you are having trouble paying for your medicines, ask your doctor or nurse about how to get financial help for them. Many drug companies have programs that provide medicines free to low-income patients if a doctor or nurse fills out special forms.</li>
+</ul>
+</p></Content>

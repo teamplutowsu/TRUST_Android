@@ -1,0 +1,11 @@
+<Module>6</Module>
+<Page>13</Page>
+<Image>3</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>What You Can Do About Your Feelings</Subtitle>
+<Content><p>
+<ul>
+<li>Try to find new activities to enjoy. Many people with heart failure find that getting involved in a new activity helps them keep their mind off of their symptoms and gives them a new outlook on life. For example, consider volunteering to help at an organization or agency, or with heart failure group activities. Some health care organizations have opportunities for patients to visit and help other patients.</li>
+<li>Consider joining a support group for patients with heart failure or heart disease. Some people find it helpful to discuss their feelings with other people who have similar problems. A support group can provide you with the assistance you need to better cope with your feelings. Your doctor or nurse can help you find a support group, if one is available in your community. However, support groups are not for everyone. So do not feel bad if you try it, and it is not right for you.</li>
+</ul>
+</p></Content>

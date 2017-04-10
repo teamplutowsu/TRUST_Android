@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>16</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Living Will</Subtitle>
+<Content><p>A living will is a legal document that lets a person who is unable to participate in decisions about their medical care express their wishes about life-sustaining treatment. A living will is usually used during a terminal illness when a person is unable to communicate. A terminal illness is one in which death is expected to occur with or without medical intervention and also applies to an irreversible condition, when there is no reasonable chance for recovery.</p></Content>

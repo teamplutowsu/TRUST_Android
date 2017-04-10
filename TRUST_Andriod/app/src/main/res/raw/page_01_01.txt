@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>01</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>What is Heart Failure?</Subtitle>
+<Content><p>Many people mistakenly believe that heart failure means that the heart has stopped or is about to stop. Heart failure simply means that the heart is not pumping blood through the body as well as it should. As the heart’s pumping action weakens, blood backs up into the blood vessels around the lungs and causes seepage of fluid into the lungs.</p></Content>

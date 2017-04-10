@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>35</Page>
+<Image>5</Image>
+<Title>Self-Care</Title>
+<Subtitle>Prevent Fatigue from Interfering with Your Life</Subtitle>
+<Content><p>
+Fatigue is a common problem for patients with heart failure. You may be surprised to learn that the best treatment for fatigue is physical activity. Refer to the tips for exercising regularly earlier in this module or see Module 5: Exercise and Activity for more detail. Sometimes fatigue is an early symptom of worsening heart failure. Call your doctor or nurse for overwhelming and increasing fatigue.
+</p></Content>

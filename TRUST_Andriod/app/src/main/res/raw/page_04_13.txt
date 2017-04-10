@@ -1,0 +1,11 @@
+<Module>4</Module>
+<Page>13</Page>
+<Image>2</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tips for Taking All of Your Medicines as Prescribed</Subtitle>
+<Content><p>
+<ul>
+<li>If you take medicines that require you to take doses throughout the day, ask your doctor or nurse if you can switch to a similar medicine that you only have to take once or twice a day.</li>
+<li>If you get dizzy after taking your medicines, talk to your doctor or nurse. He or she may need to adjust your medicines, or you may need to space them out during the day.</li>
+</ul>
+</p></Content>

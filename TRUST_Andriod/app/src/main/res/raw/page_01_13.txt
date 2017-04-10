@@ -1,0 +1,8 @@
+<Module>1</Module>
+<Page>13</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Questions to Ask</Subtitle>
+<Content><p><h3>Are my heart valves damaged?</h3>
+Reason for asking this question:<br>
+Heart valve damage is another cause of heart failure. Sometimes, valve damage can be repaired so that heart failure improves. Therefore, it is important to know if your valves are damaged.</p></Content>

@@ -1,0 +1,8 @@
+<Module>1</Module>
+<Page>08</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Questions to Ask</Subtitle>
+<Content><p><h3>Do I have blockages in my coronary arteries?</h3>
+Reason for asking this question:<br>
+Coronary artery disease is the most common cause of heart failure. With this disease, blockages in the coronary arteries decrease or cut off the blood supply to portions of the heart muscle. Sometimes it is possible to open the blockages and restore the blood supply to the heart. This may improve heart function and reduce your symptoms. Knowing whether your heart failure is related to blocked coronary arteries can help your doctor plan the best treatment for you.</p></Content>

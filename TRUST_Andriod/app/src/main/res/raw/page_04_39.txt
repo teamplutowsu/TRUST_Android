@@ -1,0 +1,12 @@
+<Module>4</Module>
+<Page>39</Page>
+<Image>5</Image>
+<Title>Self-Care</Title>
+<Subtitle>Questions to Ask Your Doctor or Nurse</Subtitle>
+<Content><p>
+<h3>Should I have a flu shot this year?<br>
+What about the pneumonia vaccine?</h3><br>
+Reason for asking this question:<br>
+Caring for yourself is all about balance. The goal is to stay well rather than to treat problems. One way to stay well is to avoid getting the flu or pneumonia. Safe vaccines (shots) that can keep you from getting sick are available.<br>
+Get a flu shot every year. Ask your doctor or nurse if you should get the pneumonia vaccine too.
+</p></Content>

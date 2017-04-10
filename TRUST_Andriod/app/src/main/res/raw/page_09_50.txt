@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>1</Page>
+<Image>7</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Learn More</Subtitle>
+<Content><p>You can learn more about how to take control of your heart failure by reading the other modules in this series. You can get copies of these modules from your doctor or nurse. Or you can check the Heart Failure Society of America web site at: www.hfsa.org.</p></Content>

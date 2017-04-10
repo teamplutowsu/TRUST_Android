@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>25</Page>
+<Image>4</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Questions for Your Doctor or Nurse</Subtitle>
+<Content><p>Communication is an important part of advance care planning and end-of-life care. (End-of -life is considered the final weeks of life when death is near.) As you begin to develop an advance care plan, it is important to have accurate information about heart failure and the specifics of your condition, so that you know what might be involved in your care. To get the most up-to-date information, you should talk to your doctor or nurse and other members of your heart failure team.</p></Content>

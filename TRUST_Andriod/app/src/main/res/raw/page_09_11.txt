@@ -1,0 +1,7 @@
+<Module>9</Module>
+<Page>11</Page>
+<Image>2</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Advance Care Plan Components</Subtitle>
+<Content><p>These documents are discussed in more detail in the following sections. Your doctor, nurse, or hospital can give you information and written materials about advance care planning. Many agencies on aging, state and national bar associations, and medical societies may also be good sources of information.<br>
+You may wish to use a lawyer with experience in estate planning or elder care to help you prepare an advance care plan to ensure that it meets your individual wishes and state legal requirements.</p></Content>

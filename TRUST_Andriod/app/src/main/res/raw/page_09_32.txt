@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>32</Page>
+<Image>5</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Palliative Care</Subtitle>
+<Content><p>Palliative care programs are designed to improve the quality of life of patients and their families when they are faced with a life-threatening illness. Since the course of heart failure may not be predictable, this type of program does not have the same entry requirements as a hospice program, which typically requires patients to have a life expectancy of 6 months or less.</p></Content>

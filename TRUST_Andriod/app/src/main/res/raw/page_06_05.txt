@@ -1,0 +1,8 @@
+<Module>6</Module>
+<Page>05</Page>
+<Image>1</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Recognizing Depression and Anxiety</Subtitle>
+<Content><p>
+Everyone feels anxious or blue some of the time. But if these feelings persist and they interfere with your ability to do and enjoy your daily activities, or if your relationships are affected, you should seek help.
+</p></Content>

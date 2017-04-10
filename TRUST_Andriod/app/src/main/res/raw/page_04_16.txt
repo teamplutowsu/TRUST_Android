@@ -1,0 +1,14 @@
+<Module>4</Module>
+<Page>16</Page>
+<Image>2</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tips for Exercising Regularly</Subtitle>
+<Content><p>
+First, talk to your doctor or nurse before starting an exercise program. Then:<br>
+<ul>
+<li>Start very slowly and steadily increase your activity level.</li>
+<li>Build a routine for your activity schedule. For example, you may want to walk every evening before dinner.</li>
+<li>Think of your activity or exercise as a special time to do something good for yourself. Schedule it several times a week. Stick to it just as you would an important date.</li>
+<li>Walk, swim, or bicycle with a family member or friend to make it more fun.</li>
+</ul>
+</p></Content>

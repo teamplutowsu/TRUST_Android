@@ -1,0 +1,19 @@
+<Module>4</Module>
+<Page>36</Page>
+<Image>5</Image>
+<Title>Self-Care</Title>
+<Subtitle>Prevent Fatigue from Interfering with Your Life</Subtitle>
+<Content><p>
+If fatigue continues, try these tips:<br>
+<ul>
+<li>Plan for adequate sleep and rest periods.
+<li>Group similar activities such as carrying items up stairs.
+<li>Use energy saving ways of doing your usual activities:<br>
+	<ul>
+	<li>Do not try to do too much at one time. Schedule things at varying times throughout the day, so you can alternate periods of activity and rest.</li>
+	<li>Ask your family and friends for help.</li>
+	<li>Sit while you are taking a shower or doing other grooming activities.</li>
+	<li>Wear clothes with zippers and front openings to decrease the effort of dressing.</li>
+	</ul>
+</ul>
+</p></Content>

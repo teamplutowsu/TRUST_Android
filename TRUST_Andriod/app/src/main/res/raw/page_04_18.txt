@@ -1,0 +1,11 @@
+<Module>4</Module>
+<Page>18</Page>
+<Image>3</Image>
+<Title>Self-Care</Title>
+<Subtitle>Other Tips for Following Your Treatment Plan</Subtitle>
+<Content><p>
+<ul>
+<li>Plan ahead. Stick to a routine for your diet, exercise, and taking your medicine. This requires attention to details and active planning. Plan for prescription refills. Allow extra time for food shopping, so that you can read labels. Schedule time for exercise. Planning ahead gives you a little extra room for success when unexpected events happen.</li>
+<li>You may have trouble following your treatment plan during times of travel, increased stress, holidays, or illness. Many people have this problem. If you have a setback or relapse in following your treatment plan, you may feel like you have failed. But your doctor or nurse does not expect you to be perfect. It is never too late to start over and get back on the plan. You will be happy you did.</li>
+</ul>
+</p></Content>

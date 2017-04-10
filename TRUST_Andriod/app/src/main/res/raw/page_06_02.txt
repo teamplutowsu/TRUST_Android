@@ -1,0 +1,19 @@
+<Module>6</Module>
+<Page>02</Page>
+<Image>1</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Introduction</Subtitle>
+<Content><p>
+This module will provide information on:<br>
+<ul>
+<li>Feelings many people have after they are diagnosed with heart failure.</li>
+<li>Why managing feelings is part of a successful heart failure treatment plan.</li>
+<li>Things you can do to manage depression and anxiety.</li>
+</ul>
+It will help you:<br>
+<ul>
+<li>Recognize feelings of depression and anxiety.</li>
+<li>Take positive steps to manage feelings about heart failure.</li>
+<li>Learn when to seek professional help for emotional problems.</li>
+</ul>
+</p></Content>

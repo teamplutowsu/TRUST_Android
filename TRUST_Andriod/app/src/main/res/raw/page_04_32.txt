@@ -1,0 +1,13 @@
+<Module>4</Module>
+<Page>32</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Monitor Your Weight and Body Swelling Daily</Subtitle>
+<Content><p>
+<ul>
+<li>Weigh yourself at the same time, on the same scale, and in the same way every day. A good way to do this is to get on the scale the first thing in the morning after you urinate, but before you eat breakfast and have a bowel movement. If you change the routine for weighing yourself, your weight may change by 2 or more pounds.</li>
+<li>Write your weight down every day. You can use the chart on page 23 to help you chart your weight. To detach the chart, tear along the perforated line.<br> 
+You can also find the weight chart at: <a href="http://abouthf.org/module4/weight_chart.htm">http://abouthf.org/module4/weight_chart.htm.<a> Print the number of copies you need.<br>
+Bring your weight chart with you when you visit your doctor.<br> Compare your weight to your dry weight, not yesterday's weight. Keep your weight as close as possible to your dry weight to decrease the risk of worsening heart failure.</li>
+</ul>
+</p></Content>

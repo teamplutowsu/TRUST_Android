@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>49</Page>
+<Image>7</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Note</Subtitle>
+<Content><p>The information in this module is merely a guide to advance care planning. It is not intended to replace professional medical advice, legal advice, or state laws as related to advance care planning</p></Content>

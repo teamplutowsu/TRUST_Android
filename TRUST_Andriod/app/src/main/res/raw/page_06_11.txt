@@ -1,0 +1,11 @@
+<Module>6</Module>
+<Page>11</Page>
+<Image>2</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>What You Can Do About Your Feelings</Subtitle>
+<Content><p>
+<ul>
+<li>Ask your family and friends for support. People who have more emotional support from family and friends often are less depressed and anxious. Unfortunately, people who are depressed or anxious tend to isolate themselves. This only makes emotional problems worse. So, reach out to family and friends. Spend more time doing activities you enjoy with them or just have a meal or a conversation together.</li>
+<li>Take a more active role in managing heart failure by learning more about the disease. It will help you feel more in control. Research has shown that people who take more control of their disease are less depressed and anxious.</li>
+</ul>
+</p></Content>

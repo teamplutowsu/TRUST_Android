@@ -1,0 +1,17 @@
+<Module>4</Module>
+<Page>23</Page>
+<Image>3</Image>
+<Title>Self-Care</Title>
+<Subtitle>Urgent Symptoms of Heart Failure</Subtitle>
+<Content><p>
+Call your doctor immediately if you have any of the following symptoms:<br>
+<ul>
+<li>Increasing shortness of breath or a new shortness of breath while resting.</li>
+<li>Trouble sleeping due to difficulty breathing. For example, waking up suddenly at night due to difficulty breathing.</li>
+<li>A need to sleep sitting up or on more pillows than usual.</li>
+<li>Fast or irregular heart beats, palpitations, or a “racing heart” that persists and makes you feel dizzy or lightheaded.</li>
+Or if you:
+<li>Cough up frothy or pink sputum.</li>
+<li>Feel like you may pass out.</li>
+</ul>
+</p></Content>

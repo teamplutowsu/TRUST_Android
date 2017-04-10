@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>16</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Note</Subtitle>
+<Content><p>These modules are not intended to replace regular medical care. You should see your health care provider regularly. The information in these modules can help you work better with your health care provider.</p></Content>

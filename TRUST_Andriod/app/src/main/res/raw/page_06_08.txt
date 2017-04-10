@@ -1,0 +1,16 @@
+<Module>6</Module>
+<Page>08</Page>
+<Image>2</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Recognizing Depression and Anxiety</Subtitle>
+<Content><p>
+You may be anxious if you have any of the following symptoms for more than two weeks:<br>
+<ul>
+<li>Excessive worry</li>
+<li>Fear</li>
+<li>Tension</li>
+<li>Feeling keyed up or always on edge</li>
+<li>Restlessness</li>
+<li>Feeling shaky</li>
+</ul>
+</p></Content>

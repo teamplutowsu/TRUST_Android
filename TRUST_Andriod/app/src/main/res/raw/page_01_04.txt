@@ -1,0 +1,14 @@
+<Module>1</Module>
+<Page>04</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>What is Heart Failure?</Subtitle>
+<Content><p>In most cases, heart failure can’t be cured, but it can be brought under control with careful work on your part. Careful management means that you should:
+<ul>
+<li>Take all of the medicines ordered by your doctor or nurse.</li>
+<li>Follow a low-sodium (salt) diet.</li>
+<li>Stop smoking.</li>
+<li>Remain physically active.</li>
+<li>Lose weight if you are overweight.</li>
+<li>Drink alcohol sparingly, if at all.</li>
+</ul></p></Content>

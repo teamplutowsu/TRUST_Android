@@ -1,0 +1,14 @@
+<Module>9</Module>
+<Page>15</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Do-Not-Resuscitate Order</Subtitle>
+<Content><p>A do-not-resuscitate order can include instructions on whether to use different types of methods to revive a person including:<br>
+<ul><li>Cardiopulmonary resuscitation (CPR)</li>
+<li>Manual chest pressure and mouth-to-mouth breathing to circulate blood and oxygenate the lungs.</li>
+<li>Defibrillation</li>
+<li>Delivering an electrical shock to the heart to restore a normal heart beat.</li>
+<li>Breathing tube and machine</li>
+<li>Used to assist with breathing.</li>
+<li>Medicines</li>
+<li>Given to restore an effective heart rate and improve circulation of blood to major organs.</li></ul></p></Content>

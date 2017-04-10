@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>08</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Causes of Heart Failure</Subtitle>
+<Content><p>Sometimes the exact cause of heart failure is not known. Idiopathic dilated cardiomyopathy is the medical term for this type of heart failure. Other dilated cardiomyopathies may be hereditary, which may be important for family members of a patient with dilated cardiomyopathy.</p></Content>

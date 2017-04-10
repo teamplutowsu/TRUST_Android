@@ -1,0 +1,9 @@
+<Module>9</Module>
+<Page>45</Page>
+<Image>6</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Terms Commonly Used in Advance Care Planning</Subtitle>
+<Content><p>As you work on an advance care plan, it may be helpful to familiarize yourself with the following terms.<br><br>
+Advance care directives: A document that lets a person give directions about his or her future medical care or to choose another person to make medical decisions if the person is not able to make decisions about his or her health.<br>
+Coma: A state of permanent unconscious deep sleep.<br>
+Do-not-resuscitate order: A type of advance directive that specifies when CPR, types of medical treatment, or technology are to be used or not used to revive a person if they stop breathing or if their heart beats irregularly or stops entirely.</p></Content>

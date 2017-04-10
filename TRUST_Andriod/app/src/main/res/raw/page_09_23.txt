@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>23</Page>
+<Image>4</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Getting Started on an Advance Care Plan</Subtitle>
+<Content><p>As part of responsible planning for the future, everyone should make an advance care plan. While it may be difficult to discuss death and dying with family and friends, everyone benefits from knowing your wishes. Your family and friends may want to know what you are feeling and thinking but may be afraid to ask you. It might be easier if you bring the topic up first.</p></Content>

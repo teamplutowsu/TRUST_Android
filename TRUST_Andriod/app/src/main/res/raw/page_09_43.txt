@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>43</Page>
+<Image>6</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Care for the Caretakers</Subtitle>
+<Content><p>Taking care of a family member or friend with heart failure can be a source of pride and a way to express love for that person. However, caretakers can also get tired and may need support. This is particularly true as the person with heart failure gets sicker and needs more help. Caretakers may ignore their own health, because they are so busy caring for their relative or friend with heart failure.</p></Content>

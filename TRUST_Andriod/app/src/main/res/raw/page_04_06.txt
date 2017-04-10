@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>06</Page>
+<Image>1</Image>
+<Title>Self-Care</Title>
+<Subtitle>Following Your Treatment Plan</Subtitle>
+<Content><p>
+* One standard drink is a drink containing 12 grams of alcohol, which usually means 1 can of beer (12 ounces), 1 glass of wine (4 ounces), or 1 shot glass (1.5 ounces) of spirits. One study suggested that this level of alcohol consumption or less was not associated with adverse effects. However, some physicians and nurses believe that these amounts are too much and recommend that patients with heart failure drink no alcohol.
+</p></Content>

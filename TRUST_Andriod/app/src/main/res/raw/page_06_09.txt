@@ -1,0 +1,8 @@
+<Module>6</Module>
+<Page>09</Page>
+<Image>2</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Recognizing Depression and Anxiety</Subtitle>
+<Content><p>
+Many people in our society feel there is some stigma associated with having emotional problems like depression or anxiety. As a result, they may be reluctant to talk to anyone about how they are feeling. But having emotional problems is nothing to be ashamed about. It is important to recognize and treat depression and anxiety. If you are having difficulties coping with feelings about heart failure, you should seek help and support. In other words, if depression and anxiety are interfering with your life or causing distress, it is important for you to seek help from your doctor or nurse.
+</p></Content>

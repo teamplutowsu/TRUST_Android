@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:background="?attr/actionBarItemBackground"
+        android:text="Font Settings"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:textColor="#FFF"
+        android:textSize="30sp"
+        android:id="@+id/textView"
+        android:gravity="center_vertical|center_horizontal"
+        android:scaleType="centerInside"
+        android:layout_alignParentTop="false"/>
+
+    <ImageButton
+        android:background="?attr/actionBarItemBackground"
+        android:layout_width="?attr/actionBarSize"
+        android:layout_height="?attr/actionBarSize"
+        app:srcCompat="@drawable/ic_chevron_left_white_48dp"
+        android:scaleType="centerInside"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/backButton" />
+
+</RelativeLayout>

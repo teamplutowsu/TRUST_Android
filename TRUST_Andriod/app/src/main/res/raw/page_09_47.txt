@@ -1,0 +1,8 @@
+<Module>9</Module>
+<Page>47</Page>
+<Image>7</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Terms Commonly Used in Advance Care Planning</Subtitle>
+<Content><p>Hospice: A type of care program that supports patients and their families through the dying process and helps surviving family members through bereavement.<br>
+Living will: A legal document that lets a person who is unable to make decisions (usually because of inability to communicate during a terminal illness) express their wishes about lifesustaining treatment.<br>
+Palliative care: A type of care program that can be used when a disease is no longer responsive to curative treatment. Palliative care generally involves treatments that seek to soothe, prevent, relieve or reduce symptoms.</p></Content>

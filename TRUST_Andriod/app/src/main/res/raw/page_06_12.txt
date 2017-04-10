@@ -1,0 +1,11 @@
+<Module>6</Module>
+<Page>12</Page>
+<Image>2</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>What You Can Do About Your Feelings</Subtitle>
+<Content><p>
+<ul>
+<li>Follow your treatment plan. If you take your medications as prescribed, follow a low-sodium diet, monitor your weight and symptoms, and keep active, you can feel better and have fewer symptoms. Feeling better physically can decrease depression and anxiety.</li>
+<li>Exercise regularly and increase your activity level. Regular activity or exercise is an effective treatment for depression and anxiety. See Module 5: Exercise and Activity for information on how to become more active.</li>
+</ul>
+</p></Content>

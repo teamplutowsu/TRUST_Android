@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>04</Page>
+<Image>1</Image>
+<Title>Self-Care</Title>
+<Subtitle>Taking Charge of Heart Failure</Subtitle>
+<Content><p>
+Right now, it may seem hard to follow your treatment plan. Many people feel this way at first. However, taking all of your medicines and making the suggested changes in your life can give you the edge that makes you feel better. Your doctor or nurse can help you overcome barriers that may prevent you from following your treatment plan. That way you can deal with your symptoms before they become a problem, so you can stay out of the hospital.
+</p></Content>

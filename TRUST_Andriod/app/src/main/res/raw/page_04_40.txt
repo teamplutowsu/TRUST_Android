@@ -1,0 +1,10 @@
+<Module>4</Module>
+<Page>40</Page>
+<Image>6</Image>
+<Title>Self-Care</Title>
+<Subtitle>Questions to Ask Your Doctor or Nurse</Subtitle>
+<Content><p>
+<h3>How much alcohol can I drink?</h3><br>
+Reason for asking this question: Alcohol can damage the cells of the heart and make it harder for your heart to pump blood. If you have heart failure, your heart is already pumping less effectively. So it makes sense not to drink alcohol at all or to drink sparingly. To drink sparingly means to drink less than 2-3 standard drinks/week. One standard drink is a drink containing 12 grams of alcohol, which usually means 1 can of beer (12 ounces), 1 glass of wine (4 ounces), or 1 shot glass (1.5 ounces) of spirits.<br>
+Talk to your doctor or nurse if you have questions about alcohol consumption.
+</p></Content>

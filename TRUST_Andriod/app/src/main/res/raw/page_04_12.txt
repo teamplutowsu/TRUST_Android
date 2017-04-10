@@ -1,0 +1,10 @@
+<Module>4</Module>
+<Page>12</Page>
+<Image>2</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tips for Taking All of Your Medicines as Prescribed</Subtitle>
+<Content><p>
+<ul>
+<li>If you forget to take a dose of medicine, do not take two doses to make up for the missed one. If another dose is not due for several hours or until the next day, then take the missed dose as soon as you remember. If the next dose is due within a few hours, just skip the missed dose and get back on your regular medicine schedule.</li>
+</ul>
+</p></Content>

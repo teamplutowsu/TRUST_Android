@@ -1,0 +1,16 @@
+<Module>9</Module>
+<Page>51</Page>
+<Image>7</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Learn More</Subtitle>
+<Content><p>The topics covered in the other modules include:<br>
+<ul><li>Introduction: Taking Control of Heart Failure</li>
+<li>How to Follow a Low-Sodium Diet</li>
+<li>Heart Failure Medicines</li>
+<li>Self-Care: Following Your Treatment Plan and Dealing with Your Symptoms</li>
+<li>Exercise and Activity</li>
+<li>Managing Feelings About Heart Failure</li>
+<li>Tips for Family and Friends</li>
+<li>Lifestyle Changes: Managing Other Chronic Conditions</li>
+<li>Heart Rhythm Problems</li>
+<li>How to Evaluate Claims of New Heart Failure Treatments and Cures</li></ul></p></Content>

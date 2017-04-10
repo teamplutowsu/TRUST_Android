@@ -1,0 +1,10 @@
+<Module>4</Module>
+<Page>10</Page>
+<Image>2</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tips for Taking All of Your Medicines as Prescribed</Subtitle>
+<Content><p>
+<ul>
+<li>Use a pillbox marked with each day of the week and the times of day you take your medicines. Fill the pillbox at the beginning of each week. Put it in a convenient place. For example, you can place it on the table where you eat or in another spot you go to every day. If you have trouble filling a pillbox, ask a family member to do it for you. Using a pillbox is one of the best ways to remember to take all of your pills every day.</li>
+</ul>
+</p></Content>

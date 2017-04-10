@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>39</Page>
+<Image>6</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Other Supportive Care</Subtitle>
+<Content><p>Occupational therapists, respiratory therapists, and physical therapists can help you move and breathe more easily and keep your muscles conditioned so you have fewer aches and pains with movement. These health care providers can also help you get equipment so you can do your day-to-day activities more easily. Examples include a shower stool, wheelchair, scooter, home oxygen, or a ramp that goes over the stairs.</p></Content>

@@ -1,0 +1,14 @@
+<Module>4</Module>
+<Page>08</Page>
+<Image>1</Image>
+<Title>Self-Care</Title>
+<Subtitle>Overcoming Barriers to Treatment</Subtitle>
+<Content><p>
+Your doctor or nurse can help you overcome the barriers and hurdles you may face in following your treatment plan. For example, they can:<br>
+<ul>
+<li>See if less expensive medicines are available.</li>
+<li>Suggest classes that teach some simple cooking techniques.</li>
+<li>Connect you with other heart failure patients who can teach you ways to better manage your treatment plan to make it work for you.</li>
+<li>Talk with you about your concerns.</li>
+</ul>
+</p></Content>

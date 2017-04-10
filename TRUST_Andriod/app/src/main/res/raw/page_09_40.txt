@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>40</Page>
+<Image>6</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>What to Do with Your Advance Care Plan</Subtitle>
+<Content><p>Make copies of your living will, do-not-resuscitate order, health care power of attorney, or other directions about medical treatment decisions (even if they are hand written) and give them to your health care team. If you need to be treated in a hospital, bring a copy with you. The hospital or your doctor will keep a copy of these documents in your records so that they have access to your wishes should they be needed. If you have a health care power of attorney, give the person or persons you have designated a copy of these documents as well.</p></Content>

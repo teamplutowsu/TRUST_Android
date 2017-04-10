@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>21</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Health Care Power of Attorney</Subtitle>
+<Content><p>While state laws vary, in general, the paperwork granting someone any type of power of attorney must be signed voluntarily and be witnessed by a notary public. A power of attorney must be completed when you are still capable (competent) of making decisions and before you become terminally ill. To ensure that a power of attorney complies with the laws in your state, it is advisable to consult with a lawyer who has experience in that area of law and can verify who may or may not serve as a health care power of attorney.</p></Content>

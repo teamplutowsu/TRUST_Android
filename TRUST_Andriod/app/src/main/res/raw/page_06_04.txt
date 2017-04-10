@@ -1,0 +1,8 @@
+<Module>6</Module>
+<Page>04</Page>
+<Image>1</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Common Feelings About Heart Failure</Subtitle>
+<Content><p>
+Although people with heart failure commonly experience depression or anxiety, that does not mean you have to accept living with these feelings. If you continue to feel depressed or anxious, it is important for your health that you take positive steps to manage these problems, instead of just waiting for them to get better on their own. 
+</p></Content>

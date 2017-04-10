@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>03</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>What is Heart Failure?</Subtitle>
+<Content><p>Heart failure is a serious illness that can affect how long you live. You may have heard that some people may die sooner because of heart failure. But with proper medications in the right doses and careful management, you can live longer and feel better.</p></Content>

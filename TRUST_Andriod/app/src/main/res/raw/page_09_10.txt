@@ -1,0 +1,7 @@
+<Module>9</Module>
+<Page>10</Page>
+<Image>2</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Advance Care Directive</Subtitle>
+<Content><p>You or another person that you specify can provide guidance about your future medical care in a document called an advance care directive. An advance care directive should provide clear evidence of your wishes regarding treatment and can include a living will, a durable health care power of attorney, and a statement about organ donation.<br>
+A U.S. federal law called the Patient Self-Determination Act requires hospitals, nursing facilities, hospices, home health agencies, and other health care providers participating in the Medicare and Medicaid programs to give all patients written information about their rights to accept or refuse medical or surgical treatment and to make advance directives.</p></Content>

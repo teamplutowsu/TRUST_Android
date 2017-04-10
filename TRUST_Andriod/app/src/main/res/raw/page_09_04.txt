@@ -1,0 +1,13 @@
+<Module>9</Module>
+<Page>04</Page>
+<Image>1</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Introduction</Subtitle>
+<Content><p>This module will provide information on:<br>
+<ul><li>Advance care plan components.</li>
+<li>The importance of an advance care plan.</li>
+<li>Making an advance care plan.</li>
+<li>What to do with your advance care plan.</li>
+<li>Care choices.</li>
+<li>Changing your mind.</li></ul>
+</p></Content>

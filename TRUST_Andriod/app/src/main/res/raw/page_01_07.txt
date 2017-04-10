@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>07</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Causes of Heart Failure</Subtitle>
+<Content><p>Other non -“ischemic” causes of heart muscle dysfunction (cardiomyopathy) include high blood pressure, infection or inflammation of the heart muscle, lung disease, diabetes, and problems with the heart valves. Drinking too much alcohol for a long time can also cause heart failure.</p></Content>

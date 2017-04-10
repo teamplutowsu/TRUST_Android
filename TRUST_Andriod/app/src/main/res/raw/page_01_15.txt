@@ -1,0 +1,8 @@
+<Module>1</Module>
+<Page>15</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Questions to Ask</Subtitle>
+<Content><p>An echocardiogram is the test most commonly used to evaluate heart function. The test will tell your doctor and you about your heart
+and heart valve function. Another test of heart function involves injecting a very small amount of radioactive material into your blood to produce images of your heart. This test is frequently called a radionucleide or MUGA scan.
+It is important to know your heart function. Doing so helps guide your care. However, once your doctor has evaluated your heart function, it is not necessary to keep testing it.</p></Content>

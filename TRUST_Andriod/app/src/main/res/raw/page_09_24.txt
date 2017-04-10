@@ -1,0 +1,11 @@
+<Module>9</Module>
+<Page>24</Page>
+<Image>4</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Getting Started on an Advance Care Plan</Subtitle>
+<Content><p>For example, you can trigger a meaningful discussion by saying:<br>
+<ul><li>I'd like to talk about what you should do in the event of an emergency, especially one involving a cardiac arrest.</li>
+<li>It seems like I am more tired than I have been in the past. I'd like to talk about what can be done to make me feel better.</li>
+<li>Let's talk about what we can do to make my life easier.</li>
+<li>I'd like to talk about the help we will need as my heart failure worsens.</li>
+<li>We should explore what kind of support is available when I can no longer take care of myself.</li></ul></p></Content>

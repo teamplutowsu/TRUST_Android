@@ -1,0 +1,11 @@
+<Module>6</Module>
+<Page>15</Page>
+<Image>3</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Other Tips for Decreasing Depression and Anxiety</Subtitle>
+<Content><p>
+<ul>
+<li>Try to get outside everyday, even if it is only for a few minutes. Dress appropriately. On extremely hot or muggy days, go outside during the morning or evening when it is cooler. Similarly, during cold weather, go out during the warmest time of day.</li>
+<li>Treat yourself to something special whenever you are feeling more depressed or anxious. This might mean going to the movies, shopping, or just visiting with friends either in person or on the telephone.</li>
+</ul>
+</p></Content>

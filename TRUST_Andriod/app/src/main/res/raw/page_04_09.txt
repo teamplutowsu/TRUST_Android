@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>09</Page>
+<Image>2</Image>
+<Title>Self-Care</Title>
+<Subtitle>Overcoming Barriers to Treatment</Subtitle>
+<Content><p>
+Your family and friends can also partner with you. In fact they can be your strongest supporters in helping you overcome barriers to following your program.
+</p></Content>

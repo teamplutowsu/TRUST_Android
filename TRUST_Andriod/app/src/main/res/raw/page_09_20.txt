@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>20</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Health Care Power of Attorney</Subtitle>
+<Content><p>If the power of attorney is a "durable" power of attorney this means that the person authorized to make your health care decisions can make them even after you become incapacitated. Having a durable health care power of attorney helps ensure that the specific person you want to make decisions for you, such as a family member, will have the legal right to act on your behalf.</p></Content>

@@ -1,0 +1,9 @@
+<Module>1</Module>
+<Page>12</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Questions to Ask</Subtitle>
+<Content><p><h3>Is my blood pressure high? Is it under control?</h3>
+Reason for asking these questions:<br>
+High blood pressure is a major cause of heart failure. It can also make heart failure worse.
+When someone has heart failure, it is wise to reduce the amount of strain on the heart in any way possible. Reducing blood pressure to normal levels is one important way to reduce strain on the heart. It is important for you to know your blood pressure and whether it is under control. That way you and your doctor can make sure it is managed well.</p></Content>

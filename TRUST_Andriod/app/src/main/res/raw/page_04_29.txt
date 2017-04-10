@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>29</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Monitor Your Weight and Body Swelling Daily</Subtitle>
+<Content><p>
+Weight gain and/or swelling (also called edema) are signs that fluid is building up in your body. You should take steps to reduce the amount of fluid in your body before it becomes more serious. Swelling occurs because there is too much sodium (salt) in your body. Extra fluid causes swelling in your ankles and legs. Your shoes may feel tight. You may also notice that your rings feel tight or that you have other swelling in your hands. Some people develop swelling in their abdomen causing clothing to feel tight in the waist.
+</p></Content>

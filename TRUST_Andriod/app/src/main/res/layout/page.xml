@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dip"
+    android:background="@drawable/home">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/header_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:padding="2dip"
+        android:orientation="vertical"
+        android:background="@drawable/rounded_view_back"
+        android:layout_margin="3dip"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="75dip"
+            android:id="@+id/imageBar"
+            android:orientation="horizontal"
+            android:weightSum="3"
+            android:layout_weight="1"
+            android:background="@color/imageBackground">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="0dp"
+                android:background="@color/imageBackground"
+                android:id="@+id/image1"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="0dp"
+                android:background="@color/imageBackground"
+                android:id="@+id/image2"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="0dp"
+                android:background="@color/imageBackground"
+                android:id="@+id/image3"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="35dip"
+            android:background="@drawable/rounded_view_front"
+            android:gravity="center"
+            android:textColor="@color/textColor"
+            android:textSize="20sp"
+            android:layout_margin="5dip"
+            android:layout_weight="1"/>
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:layout_margin="5dip"
+            android:padding="5dip"
+            android:progress="10"
+            android:layout_weight="1"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:background="@drawable/progress_bar_back_rounded"
+            android:progressTint="@color/progressBarForeground"
+            android:id="@+id/progressBar" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView_back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/header_back"
+        android:padding="2dip"
+        android:orientation="vertical"
+        android:layout_margin="3dip"
+        android:background="@drawable/rounded_view_back">
+
+            <WebView
+                android:id="@+id/page_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/rounded_view_front"
+                android:padding="2dip"
+                android:textColor="@color/textColor"
+                android:layerType="software"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
+

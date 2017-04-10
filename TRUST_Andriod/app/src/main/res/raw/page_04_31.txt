@@ -1,0 +1,13 @@
+<Module>4</Module>
+<Page>31</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Monitor Your Weight and Body Swelling Daily</Subtitle>
+<Content><p>
+To monitor your weight, you should:<br>
+<ul>
+<li>Write down your weight on the morning of the day after you get home from the hospital. This is probably your dry weight.<br>
+Dry weight is your weight without extra body fluid. It is not related to your body size (thin or heavy). Instead, it is related to the amount of fluid retained in your body due to your heart failure.<br>
+If you have not been in the hospital recently, ask your doctor or nurse what your dry body weight is.</li>
+</ul>
+</p></Content>

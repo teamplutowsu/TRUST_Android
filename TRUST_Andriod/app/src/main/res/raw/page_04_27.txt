@@ -1,0 +1,13 @@
+<Module>4</Module>
+<Page>27</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tracking Your Symptoms</Subtitle>
+<Content><p>
+It is important to keep track of your heart failure symptoms, so that you can recognize when they are getting worse or whether you are developing new ones. Use the chart below to list each of your symptoms. Then rate each one on a scale from 1 to 5 based on how you felt last week:<br>
+<ul>
+<li>If a symptom was mild, then rate it as a 1.</li>
+<li>If a symptom was severe, then rate it as a 5.</li>
+<li>If it was somewhere between mild and severe, then give it a 2, 3, or 4 rating.</li>
+</ul>
+</p></Content>

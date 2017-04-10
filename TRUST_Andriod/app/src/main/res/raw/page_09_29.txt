@@ -1,0 +1,13 @@
+<Module>9</Module>
+<Page>29</Page>
+<Image>4</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Discussions with Your Doctor or Nurse</Subtitle>
+<Content><p><ul><li>Can you imagine a time when it would not be worth it to stay alive?<br>
+<li>Which heart failure symptoms bother you the most?</li>
+<li>What practical problems is your heart failure creating for you?</li>
+<li>Do you have effective methods for treating your symptoms of heart failure?</li>
+<li>Is there a specific resource you use (person, place, thing) to help you feel better?</li>
+<li>If you have lost family members or other loved ones, what was that like for you?</li>
+<li>Are there family members who need to know what is going on?</li></ul>
+To prepare for a discussion of advance care planning with your doctor or nurse, you may wish to write down the answers to these questions</p></Content>

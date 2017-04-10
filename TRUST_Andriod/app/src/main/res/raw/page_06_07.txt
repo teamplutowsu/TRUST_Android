@@ -1,0 +1,8 @@
+<Module>6</Module>
+<Page>07</Page>
+<Image>2</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Recognizing Depression and Anxiety</Subtitle>
+<Content><p>
+Also keep in mind that people who are depressed often feel tired and have no energy. They may lose interest in sex, have trouble sleeping, and lose their appetite. Although fatigue and loss of appetite are also common symptoms of heart failure, they are more likely due to depression if accompanied by any of the symptoms listed above. 
+</p></Content>

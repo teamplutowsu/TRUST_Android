@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>08</Page>
+<Image>2</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Importance of an Advance Care Plan</Subtitle>
+<Content><p>Telling people what you want helps them care for you in a way that best meets your wishes. It may also increase communication about end-of-life needs and concerns and make life less stressful for you. Knowing that you have made arrangements for your care may even improve your outlook for the future. It can also make it easier for your family to make decisions about your care.</p></Content>

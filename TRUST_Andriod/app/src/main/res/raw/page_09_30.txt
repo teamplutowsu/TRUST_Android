@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>30</Page>
+<Image>5</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Making Care Choices as Heart Failure Progresses</Subtitle>
+<Content><p>Some people worry about burdening their families as their heart failure progresses and about dying in pain. When patients and families are told "nothing more can be done", they often interpret this to mean that their doctor or hospital will no longer care for them. This is not true. You are entitled to continue to receive medical care and have your pain managed no matter what stage of heart failure you have. Additionally, you can choose how you will be cared for and where you receive that care as your heart failure progresses. Some people prefer to be cared for and die in their homes. Others may prefer to die in a hospital.</p></Content>

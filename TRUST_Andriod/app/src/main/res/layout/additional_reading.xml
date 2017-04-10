@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dip"
+    android:background="@drawable/home"
+    android:weightSum="3">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded_view_back"
+        android:id="@+id/module1"
+        android:onClick="onClickedModule"
+        android:layout_weight="1"
+        android:padding="2dip"
+        android:layout_margin="5dip"
+        >
+
+        <ImageView
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:id="@+id/module1Image"
+            android:background="@drawable/rounded_view_front"
+            android:layout_alignParentLeft="true"
+            android:layout_above="@+id/module1Progress"
+            android:padding="5dip"
+            android:layout_margin="5dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/module1Text"
+            android:background="@drawable/rounded_view_front"
+            android:layout_toRightOf="@+id/module1Image"
+            android:layout_above="@+id/module1Progress"
+            android:padding="5dip"
+            android:layout_margin="5dip"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="@color/textColor"
+            android:textSize="28dip"/>
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="15dip"
+            android:padding="5dip"
+            android:layout_margin="5dip"
+            android:progress="1"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/rounded_view_front"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressTint="@color/progressBarForeground"
+            android:progressBackgroundTint="@color/progressBarBackground"
+            android:progressTintMode="multiply"
+            android:id="@+id/module1Progress"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded_view_back"
+        android:id="@+id/module4"
+        android:onClick="onClickedModule"
+        android:layout_weight="1"
+        android:padding="2dip"
+        android:layout_margin="5dip"
+        >
+
+        <ImageView
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:id="@+id/module4Image"
+            android:background="@drawable/rounded_view_front"
+            android:layout_alignParentLeft="true"
+            android:layout_above="@+id/module4Progress"
+            android:padding="5dip"
+            android:layout_margin="5dip" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/module4Text"
+            android:background="@drawable/rounded_view_front"
+            android:layout_toRightOf="@+id/module4Image"
+            android:layout_above="@+id/module4Progress"
+            android:padding="5dip"
+            android:layout_margin="5dip"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="@color/textColor"
+            android:textSize="28dip"/>
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="15dip"
+            android:layout_margin="5dip"
+            android:padding="5dip"
+            android:progress="1"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/rounded_view_front"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressTint="@color/progressBarForeground"
+            android:progressBackgroundTint="@color/progressBarBackground"
+            android:progressTintMode="multiply"
+            android:id="@+id/module4Progress"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rounded_view_back"
+        android:id="@+id/module6"
+        android:onClick="onClickedModule"
+        android:layout_weight="1"
+        android:padding="2dip"
+        android:layout_margin="5dip"
+        >
+
+        <ImageView
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:id="@+id/module6Image"
+            android:background="@drawable/rounded_view_front"
+            android:layout_alignParentLeft="true"
+            android:layout_above="@+id/module6Progress"
+            android:padding="5dip"
+            android:layout_margin="5dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/module6Text"
+            android:background="@drawable/rounded_view_front"
+            android:layout_toRightOf="@+id/module6Image"
+            android:layout_above="@+id/module6Progress"
+            android:padding="5dip"
+            android:layout_margin="5dip"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="@color/textColor"
+            android:textSize="28dip"/>
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="15dip"
+            android:layout_margin="5dip"
+            android:padding="5dip"
+            android:progress="1"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/rounded_view_front"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressTint="@color/progressBarForeground"
+            android:progressBackgroundTint="@color/progressBarBackground"
+            android:progressTintMode="multiply"
+            android:id="@+id/module6Progress"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

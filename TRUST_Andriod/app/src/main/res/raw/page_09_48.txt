@@ -1,0 +1,9 @@
+<Module>9</Module>
+<Page>48</Page>
+<Image>7</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Terms Commonly Used in Advance Care Planning</Subtitle>
+<Content><p>Resuscitation: Taking measures to save a person's life in the event they stop breathing, their heart beats erratically, or their heart stops beating.<br>
+Sudden cardiac arrest: When the heart suddenly stops pumping enough blood to sustain life, because an electrical problem in the heart causes an extremely fast and/or chaotic heart rhythm.<br>
+Terminal illness: An illness in which death is expected to occur with or without medical intervention. The term also applies to an irreversible condition, when there is no reasonable chance for recovery.<br>
+Permanent vegetative state: A state that occurs when there has been permanent brain damage severe enough that the person is unaware of their surroundings. The person can not communicate, understand, or meaningfully appreciate life, and there is no reasonable chance for recovery.</p></Content>

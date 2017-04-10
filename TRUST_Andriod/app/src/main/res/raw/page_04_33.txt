@@ -1,0 +1,12 @@
+<Module>4</Module>
+<Page>33</Page>
+<Image>5</Image>
+<Title>Self-Care</Title>
+<Subtitle>Treat Weight Gain and Swelling Right Away</Subtitle>
+<Content><p>
+If you gain 2 or more pounds in 1 day, or 4 pounds in 1 week, or if you have more swelling than usual, do the following:<br>
+<ul>
+<li>Cut the sodium (salt) in your diet by 500 mg (about 1/4 teaspoon) each day.</li>
+<li>Decrease the amount of liquid you drink by 1 or 2 cups per day. For example, if you normally drink 5 cups of liquid each day, reduce it to 3 or 4 cups each day for 2 days.</li>
+</ul>
+</p></Content>

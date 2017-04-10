@@ -1,0 +1,13 @@
+<Module>4</Module>
+<Page>22</Page>
+<Image>3</Image>
+<Title>Self-Care</Title>
+<Subtitle>Emergency Symptoms of Heart Failure</Subtitle>
+<Content><p>
+Call 911 for emergency help if you have:<br>
+<ul>
+<li>Chest discomfort or pain that lasts more than 15 minutes that is not relieved with rest or nitroglycerin.</li>
+<li>Severe, persistent shortness of breath.</li>
+<li>Fainted or passed out.</li>
+</ul>
+</p></Content>

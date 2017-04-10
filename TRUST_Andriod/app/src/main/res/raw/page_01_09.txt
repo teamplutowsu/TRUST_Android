@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>09</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Causes of Heart Failure</Subtitle>
+<Content><p>Ask your doctor for the cause(s) of your heart failure. There may be special things you can do to care for yourself, based on the specific reasons for your condition.</p></Content>

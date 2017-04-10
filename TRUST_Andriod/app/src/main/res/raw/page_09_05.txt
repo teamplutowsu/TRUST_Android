@@ -1,0 +1,10 @@
+<Module>9</Module>
+<Page>05</Page>
+<Image>1</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Introduction</Subtitle>
+<Content><p>It will help you:<br>
+<ul><li>Understand the purpose of an advance care plan.</li>
+<li>Make your own advance care plan.</li>
+<li>Understand what to do with your advance care plan.</li>
+<li>Involve your family, friends, health care providers, and other advisors such as a lawyer in your plans for future medical care</li></ul></p></Content>

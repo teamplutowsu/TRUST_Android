@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>22</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Financial Planning</Subtitle>
+<Content><p>Some drug companies have programs that provide medicines free to low-income patients if a doctor or nurse fills out special forms. Do not be shy about applying for these programs if you meet the criteria. The programs are there to help people get the medicines they need.</p></Content>

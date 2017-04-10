@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>33</Page>
+<Image>5</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Palliative Care</Subtitle>
+<Content><p>Palliative care programs are very similar to hospice programs in that their goals are patient comfort and quality of life rather than cure. They typically take many dimensions of a person's life into account (physical, social, spiritual, and psychological) and seek to individualize care to meet the unique needs of each person. In addition, patient education is part of the care plan and can include education about ways to decrease shortness of breath, conserve energy for important activities, and monitor your condition.</p></Content>

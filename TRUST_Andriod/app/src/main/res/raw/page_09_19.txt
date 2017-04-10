@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>19</Page>
+<Image>3</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Health Care Power of Attorney</Subtitle>
+<Content><p>You can give someone a general power of attorney to make decisions for you or you can limit their decision-making to certain issues by including instructions about your care. For example, you can specify preferences regarding particular treatments such as tube feeding, intravenous fluids, and organ donation, to the extent you have not already covered those subjects in a living will.</p></Content>

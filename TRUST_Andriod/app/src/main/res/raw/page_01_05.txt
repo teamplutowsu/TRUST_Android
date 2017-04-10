@@ -1,0 +1,11 @@
+<Module>1</Module>
+<Page>05</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>What is Heart Failure?</Subtitle>
+<Content><p>You should also check yourself every day for signs that your heart failure is
+getting worse. You should:
+<ul>
+<li>Weigh yourself.</li>
+<li>Look for swelling. These things may seem hard to do. But your active input in the treatment plan is essential. This series of modules will give you many tips and ideas to make it easier for you to take control of your condition.</li>
+</ul></p></Content>

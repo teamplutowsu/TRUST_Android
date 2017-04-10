@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>37</Page>
+<Image>5</Image>
+<Title>Making Care Choices</Title>
+<Subtitle>Home Health Care</Subtitle>
+<Content><p>Whether you choose a palliative care program, a hospice care program, or no program at all, it is likely that you will feel more tired and be short of breath as your heart failure progresses. Your doctors and nurses may recommend home health care nursing to monitor your status and adjust your therapy to keep you comfortable without shortness of breath.</p></Content>

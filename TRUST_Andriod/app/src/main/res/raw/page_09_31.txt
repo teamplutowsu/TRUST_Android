@@ -1,0 +1,10 @@
+<Module>9</Module>
+<Page>31</Page>
+<Image>5</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Making Care Choices as Heart Failure Progresses</Subtitle>
+<Content><p>The following sections discuss some care options:<br>
+<ul><li>Palliative care.</li>
+<li>Hospice care.</li>
+<li>Home health care.</li>
+<li>Other supportive care.</li></ul></p></Content>

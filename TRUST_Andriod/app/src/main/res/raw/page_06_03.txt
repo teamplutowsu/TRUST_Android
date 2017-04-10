@@ -1,0 +1,8 @@
+<Module>6</Module>
+<Page>03</Page>
+<Image>1</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Common Feelings About Heart Failure</Subtitle>
+<Content><p>
+It is common for people to feel depressed or anxious after learning that they have a chronic disease such as heart failure. For some people, these feelings decrease or go away after they learn more about heart failure. They see that it is possible to cope with the condition and live good quality lives. For others, however, the feelings may continue or even get worse over time.
+</p></Content>

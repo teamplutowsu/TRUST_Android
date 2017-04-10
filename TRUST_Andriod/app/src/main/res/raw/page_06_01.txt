@@ -1,0 +1,9 @@
+<Module>6</Module>
+<Page>01</Page>
+<Image>1</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Introduction</Subtitle>
+<Content><p>
+Heart failure can cause physical problems that affect your sense of well-being. You should also be aware that you may experience feelings or emotions such as depression and anxiety as a result of having this disease. These emotions can be distressing and can affect your overall wellness.<br> 
+By recognizing these emotions for what they are, you can take positive steps that can help you feel better. Learning how to manage feelings is part of taking control of heart failure and living successfully with the disease.
+</p></Content>

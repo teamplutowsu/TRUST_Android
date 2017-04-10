@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>12</Page>
+<Image>2</Image>
+<Title>Advance Care Plan Components</Title>
+<Subtitle>Advance Care Directive</Subtitle>
+<Content><p>You or another person that you specify can provide guidance about your future medical care in a document called an advance care directive. An advance care directive should provide clear evidence of your wishes regarding treatment and can include a living will, a durable health care power of attorney, and a statement about organ donation.</p></Content>

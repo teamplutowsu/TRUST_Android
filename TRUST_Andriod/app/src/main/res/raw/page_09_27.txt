@@ -1,0 +1,9 @@
+<Module>9</Module>
+<Page>27</Page>
+<Image>4</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Questions for Your Doctor or Nurse</Subtitle>
+<Content><p>Palliative care does not try to cure a disease but seeks to soothe, prevent, relieve, or reduce symptoms. It may also include treatments to help patients reach personal goals, obtain meaning from everyday life and current experiences, and overcome conflicts associated with the end-of-life.<br>
+<ul><li>When is the right time to get a palliative care team involved in my care?</li>
+<li>How will I know when my heart condition is worsening? What signs or symptoms should I expect?</li>
+<li>Is frequent hospitalization a sign that my heart failure has worsened to the point that I should think about end-of-life issues?</li></ul></p></Content>

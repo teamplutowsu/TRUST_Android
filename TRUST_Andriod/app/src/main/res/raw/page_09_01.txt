@@ -1,0 +1,7 @@
+<Module>9</Module>
+<Page>01</Page>
+<Image>1</Image>
+<Title>Module 9</Title>
+<Subtitle>Advance Care Planning</Subtitle>
+<Content><p>The content in this module is adapted from The Heart Failure Society of America's Advance Care Planning.<br>
+The Heart Failure Society of America (HFSA) is a non-profit organization of health care professionals and researchers who are dedicated to enhancing quality and duration of life for patients with heart failure and preventing the condition in those at risk. These educational modules have been developed to help patients, their families, and individuals at risk for heart failure understand and cope with the disease. For more information about the Society please visit their web site <a href="www.hfsa.org">www.hfsa.org</a>.</p></Content>

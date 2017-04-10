@@ -1,0 +1,13 @@
+<Module>9</Module>
+<Page>28</Page>
+<Image>4</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Discussions with Your Doctor or Nurse</Subtitle>
+<Content><p>Your doctor or nurse will also want to learn about your concerns, goals, and values during the advance care planning process, so they can provide the care that is right for you. Some of the questions they may ask include:<br>
+<ul><li>What is your understanding of heart failure?</li>
+<li>What does quality of life mean to you?</li>
+<li>What are your hopes?</li>
+<li>What, if anything, are your fears? What are you most afraid of?</li>
+<li>What would be left undone if you were to die today?</li>
+<li>Has faith been important to you at specific times of your life?</li>
+<li>What has provided the most meaning in your life?</li></ul></p></Content>

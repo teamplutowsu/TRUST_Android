@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>21</Page>
+<Image>3</Image>
+<Title>Self-Care</Title>
+<Subtitle>Symptoms of Heart Failure: When to Call for Help</Subtitle>
+<Content><p>
+Heart failure causes many symptoms. Some of them are more serious than others. It is important to recognize when you should call 911 for emergency help and when you should call your doctor or nurse for urgent attention. The following lists can help you decide what to do if you experience certain symptoms. Detach this chart and keep it in a convenient spot.
+</p></Content>

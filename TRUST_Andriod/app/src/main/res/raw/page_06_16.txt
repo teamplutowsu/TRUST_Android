@@ -1,0 +1,8 @@
+<Module>6</Module>
+<Page>16</Page>
+<Image>3</Image>
+<Title>Managing Feelings About Heart Failure</Title>
+<Subtitle>Seeking Professional Help</Subtitle>
+<Content><p>
+If your depression or anxiety is severe, long lasting, or does not get better, you should seek help from a psychologist, psychiatrist, or psychiatric nurse practitioner. These professionals help people manage emotional problems. Your family doctor, or your heart failure doctor or nurse can refer you to one of these specialists. It is important to seek help for depression or anxiety, because these conditions can worsen your overall health.
+</p></Content>

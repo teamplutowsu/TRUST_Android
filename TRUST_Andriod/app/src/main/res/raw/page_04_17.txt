@@ -1,0 +1,12 @@
+<Module>4</Module>
+<Page>17</Page>
+<Image>3</Image>
+<Title>Self-Care</Title>
+<Subtitle>Tips for Following Your Diet</Subtitle>
+<Content><p>
+<ul>
+<li>If you do not cook, learn one or two simple techniques from a friend or the hospital dietitian.</li>
+<li>Do not be afraid to ask a family member or friend to partner with you to help you stay on your diet. In fact this is one of the best ways to stay on your diet and follow other parts of your treatment plan.</li>
+<li>If another member of your family does the cooking, ask him or her to learn how to cook the foods on your diet. Diet changes are easiest when the whole family follows them.</li>
+</ul> 
+</p></Content>

@@ -1,0 +1,9 @@
+<Module>4</Module>
+<Page>41</Page>
+<Image>6</Image>
+<Title>Self-Care</Title>
+<Subtitle>Other Questions and Answers About Self-Care</Subtitle>
+<Content><p>
+<h3>Question: Why is it so important to weigh myself every day?</h3><br>
+Answer: Sometimes people with heart failure do not understand why their doctor or nurse has asked them to weigh themselves every day. People usually weigh themselves to find out whether they have gained or lost fat. That is not the reason that people with heart failure should weigh themselves every day.
+</p></Content>

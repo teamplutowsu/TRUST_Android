@@ -1,0 +1,6 @@
+<Module>9</Module>
+<Page>52</Page>
+<Image>7</Image>
+<Title>Advance Care Planning</Title>
+<Subtitle>Note</Subtitle>
+<Content><p>These modules are not intended to replace regular medical care. You should see your doctor or nurse regularly. The information in these modules can help you work better with your doctor or nurse.</p></Content>

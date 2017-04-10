@@ -1,0 +1,8 @@
+<Module>4</Module>
+<Page>26</Page>
+<Image>4</Image>
+<Title>Self-Care</Title>
+<Subtitle>Early Symptoms of Heart Failure</Subtitle>
+<Content><p>
+These common symptoms are early signs that fluid is building up and that your body is producing harmful substances (stress hormones) that worsen heart failure. If you have any of these symptoms, let your doctor or nurse know. They may be able to help decrease or get rid of them. Also let your doctor or nurse know if you think your heart failure medicines are causing you to have new symptoms. 
+</p></Content>

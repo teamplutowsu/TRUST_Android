@@ -1,0 +1,11 @@
+<Module>4</Module>
+<Page>38</Page>
+<Image>5</Image>
+<Title>Self-Care</Title>
+<Subtitle>Questions to Ask Your Doctor or Nurse</Subtitle>
+<Content><p>
+Reason for asking this question:<br> 
+Some patients can monitor their heart failure symptoms well and can tell when they need a little higher dose of their water pill. They are in tune with their bodies, weigh themselves routinely, and pay close attention to changes in their symptoms.<br>
+If you also do these things, your doctor may direct you to take an extra diuretic (water pill) when you gain a specified amount of weight.<br>
+Do not do this on your own, because the regimen varies for every person. But, if you believe that you are a candidate for a flexible diuretic (water pill) regimen, ask your doctor.
+</p></Content>

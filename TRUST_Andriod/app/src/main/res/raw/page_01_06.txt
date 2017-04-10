@@ -1,0 +1,6 @@
+<Module>1</Module>
+<Page>06</Page>
+<Image>1</Image>
+<Title>Taking Control of Heart Failure</Title>
+<Subtitle>Causes of Heart Failure</Subtitle>
+<Content><p>Heart failure usually occurs when another problem makes the heart weak or stiff so it doesn’t pump or fill normally. A common cause of heart failure is heart attack. The medical term your doctor may use for this cause of heart failure is ischemic cardiomyopathy.</p></Content>
